@@ -2,7 +2,6 @@
 
 An AI-powered Streamlit web application to predict house prices in Bangalore based on area, BHK, bathroom count, and location — designed with a modern real-estate-themed frontend.
 
-![Hero Banner](https://img.freepik.com/free-photo/house-model-with-real-estate-agent_23-2150709962.jpg)
 
 ---
 
@@ -77,7 +76,7 @@ streamlit run app_themed.py
 
 | Landing Page | Prediction Form |
 |--------------|-----------------|
-| ![Hero](https://img.freepik.com/free-photo/house-model-with-real-estate-agent_23-2150709962.jpg) | ![Form](https://via.placeholder.com/300x120.png?text=Streamlit+Form) |
+
 
 ---
 
